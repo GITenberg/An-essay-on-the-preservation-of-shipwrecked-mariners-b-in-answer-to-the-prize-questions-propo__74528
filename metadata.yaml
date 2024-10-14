@@ -1,0 +1,34 @@
+_repo: An-essay-on-the-preservation-of-shipwrecked-mariners-b-in-answer-to-the-prize-questions-propo__74528
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fothergill, A. (Anthony)
+    alias: Fothergill, Anthony
+    deathdate: 1813
+    gutenberg_agent_id: '55048'
+    url: http://www.gutenberg.org/2009/agents/55048
+    wikipedia: https://en.wikipedia.org/wiki/Anthony_Fothergill_(physician)
+description: ''
+gutenberg_issued: '2024-10-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74528'
+language: en
+pgterms:marc904: https://archive.org/details/b21447883/page/n5/mode/2up
+pgterms:marc905: 20220323184830fothergill
+pgterms:marc906: '1799'
+pgterms:marc907: GB
+production_note: Richard Tonsing, Charlene Taylor, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aLondon :$bJohn Nichols, $c1799.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'An essay on the preservation of shipwrecked mariners : $b in answer to the
+  prize-questions proposed by the Royal Humane Society : "1. What are the best means
+  of preserving mariners from shipwreck?-2. Of keeping the vessel afloat?-3. Of giving
+  assistance to the crew, when boats dare not venture out to their aid?"'
+url: http://www.gutenberg.org/ebooks/74528
