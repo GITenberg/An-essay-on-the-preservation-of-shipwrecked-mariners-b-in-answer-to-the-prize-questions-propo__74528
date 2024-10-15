@@ -1,5 +1,8 @@
 _repo: An-essay-on-the-preservation-of-shipwrecked-mariners-b-in-answer-to-the-prize-questions-propo__74528
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74528-h/images/cover.jpg
 creator:
   author:
     agent_name: Fothergill, A. (Anthony)
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/55048
     wikipedia: https://en.wikipedia.org/wiki/Anthony_Fothergill_(physician)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74528#An-essay-on-the-preservation-of-shipwrecked-mariners-b-in-answer-to-the-prize-questions-propo_
 gutenberg_issued: '2024-10-06'
 gutenberg_type: Text
 identifiers:
